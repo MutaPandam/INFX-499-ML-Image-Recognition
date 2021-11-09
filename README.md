@@ -6,6 +6,8 @@ NAME: Austin Church
 
 This is my submission for part 1 of project 2 and probably part 2 if I forget to update this.
 
+For the movement behavior, Move the target guy using the arrow keys.
+
 Movement behaviors are in the sample scene. To change between behaviors, click on the agent and check the mark beside the behavior and uncheck the others in the script component.
 For obastacle avoidance, check the object avoidance in the same place as before.
 
